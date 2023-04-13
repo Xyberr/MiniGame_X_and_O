@@ -1,0 +1,7 @@
+C:\Users\maksz\source\repos\MiniGame_05\bin\Debug\MiniGame_05.exe.config
+C:\Users\maksz\source\repos\MiniGame_05\bin\Debug\MiniGame_05.exe
+C:\Users\maksz\source\repos\MiniGame_05\bin\Debug\MiniGame_05.pdb
+C:\Users\maksz\source\repos\MiniGame_05\obj\Debug\MiniGame_05.csproj.AssemblyReference.cache
+C:\Users\maksz\source\repos\MiniGame_05\obj\Debug\MiniGame_05.csproj.CoreCompileInputs.cache
+C:\Users\maksz\source\repos\MiniGame_05\obj\Debug\MiniGame_05.exe
+C:\Users\maksz\source\repos\MiniGame_05\obj\Debug\MiniGame_05.pdb
